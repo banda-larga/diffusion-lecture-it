@@ -1,1 +1,3 @@
-# diffusion-lecture-it
+# diffusion-lecture
+
+Intervento sui DDPMs, Università degli Studi dell'Insubria.
