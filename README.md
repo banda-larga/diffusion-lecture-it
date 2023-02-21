@@ -5,5 +5,5 @@
 Intervento sui DDPMs, Università degli Studi dell'Insubria.
 
 <p align="center">
-  <img src="./robert_capa_gen.png" alt="robert capa from stable diffusion" width="500"/>
+  <img src="images/robert_capa_gen.png" alt="robert capa from stable diffusion" width="500"/>
 </p>
